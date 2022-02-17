@@ -13,7 +13,7 @@ const Blog = () => {
     <TodoNavbar />
 
     <main>
-      <h1> My Blog </h1>
+      <h1> Food Menu </h1>
       <BlogReadFromStore />
     </main>
 
